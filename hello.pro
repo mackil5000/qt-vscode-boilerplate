@@ -11,4 +11,4 @@ QT+=core gui widgets
 LINK="/usr/bin/clang++"
 # Input
 HEADERS+=hello.h
-SOURCES+=hello.cpp main.cpp.
+SOURCES+=hello.cpp main.cpp
