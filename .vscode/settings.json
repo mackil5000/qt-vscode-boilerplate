@@ -1,7 +1,8 @@
 {
   "files.associations": {
     "iostream": "cpp",
-    "qtwidgets": "cpp"
+    "qtwidgets": "cpp",
+    "array": "cpp"
   },
   "editor.defaultFormatter": "ms-vscode.cpptools",
   "C_Cpp.autocompleteAddParentheses": true
