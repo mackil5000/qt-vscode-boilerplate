@@ -4,5 +4,6 @@
     "qtwidgets": "cpp"
   },
   "editor.defaultFormatter": "ms-vscode.cpptools",
-  "C_Cpp.autocompleteAddParentheses": true
+  "C_Cpp.autocompleteAddParentheses": true,
+  "C_Cpp.errorSquiggles": "Enabled"
 }
